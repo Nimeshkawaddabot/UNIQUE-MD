@@ -4,13 +4,13 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 //Owner Numbers 
-global.owner = [
+global.owner = [NIMESHKA
   ['923135673658', 'wasi', false],
   [''], 
   [''],
 ]
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "94721584279" //put your bot number here
 global.mods = ['923192173398'] 
 global.prems = ['923192173398', '923192173398', '923192173398']
 global.allowed = ['923192173398']
